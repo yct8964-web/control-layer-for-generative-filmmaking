@@ -142,8 +142,10 @@ The 12-week sequence in the v0.2 plan is a candidate planning frame, not a commi
 
 I am sharing this work openly because I do not see these ideas merely as something to possess, but as something I have received and am willing to share, test, refine, and develop with others exploring the future of generative filmmaking.
 
-Publishing the architecture now also makes its status honest: the research and system framing are ready to discuss, while implementation and production evidence remain deferred.
-
+Publishing the architecture now also makes its status honest: the research and system framing are ready to discuss, while implementation and production evidence remain deferred.What do you have that you did not receive?”
+— 1 Corinthians 4:7
+“Freely ye have received, freely give.”
+— Matthew 10:8
 ## Related work
 
 Existing work already demonstrates important parts of the control-delivery path, especially Blender blockouts, camera previs, reference video, motion guidance, and provider adapters. This proposal does not claim to invent those techniques. Its intended contribution is the production-state layer around them: canon, shared scene time, continuity relations, Rich IR, conformance, dependency tracking, manifests, and approval history.
