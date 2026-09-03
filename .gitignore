@@ -1,0 +1,41 @@
+# Operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Local secrets and provider credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Generated media, caches, and local production outputs
+cache/
+tmp/
+temp/
+outputs/
+renders/
+generations/
+*.blend1
+*.blend2
+
+# Keep fixtures and intentionally committed research media when added later.
+!fixtures/**
+!research/**
+
